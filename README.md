@@ -12,15 +12,6 @@ Play the classic Rock Paper Scissors game against the computer. Choose your move
 - Score tracking
 - Responsive design
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/rock-paper-scissors.git
-   ```
-
-2. Open `index.html` in your browser.
-
 ## How to Play
 
 1. Click on Rock, Paper, or Scissors button
