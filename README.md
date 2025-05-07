@@ -27,6 +27,5 @@ Play the classic Rock Paper Scissors game against the computer. Choose your move
 - CSS
 - JavaScript
 
-## License
-
-[MIT](LICENSE)
+## Output
+https://dakshgarg1311.github.io/Rock-Paper-Scissor/
